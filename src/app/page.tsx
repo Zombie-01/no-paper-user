@@ -38,7 +38,7 @@ export default function Home() {
         style={{ top: toggle ? "0%" : "60%" }}
         className="w-full cubic h-full relative flex flex-col items-center justify-center ">
         <div
-          className="fixed top-0 left-0 right-0 h-[65%] "
+          className="fixed top-0 left-0 right-0 h-[70%] "
           style={{
             background: "url(/shijkajpeg.jpeg) center center/cover no-repeat "
           }}
